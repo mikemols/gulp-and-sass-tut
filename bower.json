@@ -12,5 +12,8 @@
   ],
   "homepage": "https://github.com/mikemols/gulp-and-sass-tut",
   "moduleType": [],
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
 }
