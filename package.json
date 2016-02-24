@@ -1,0 +1,23 @@
+{
+  "name": "gulp-and-sass-tut",
+  "version": "1.0.0",
+  "description": "Basic gulp and sass development",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemols/gulp-and-sass-tut.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "author": "Mike Mols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemols/gulp-and-sass-tut/issues"
+  },
+  "homepage": "https://github.com/mikemols/gulp-and-sass-tut#readme"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gulp-and-sass-tut",
+  "description": "Basic gulp and sass development",
+  "main": "index.html",
+  "authors": [
+    "Mike Mols"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "homepage": "https://github.com/mikemols/gulp-and-sass-tut",
+  "moduleType": [],
+  "private": true
+}
